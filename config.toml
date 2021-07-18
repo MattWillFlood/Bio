@@ -1,4 +1,4 @@
-baseURL = "/Bio/"
+baseURL = "https://mattwillflood.github.io/Bio/"
 languageCode = "en-ie"
 title = "Matt Flood"
 theme = "terminal"
@@ -8,7 +8,7 @@ paginate = 5
 
 [params]
 
-  hideate = true
+  hidedate = true
 
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
