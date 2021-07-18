@@ -16,7 +16,7 @@ cover: "img/Pro Pic.jpg"
 
 My name is Matt and this is my hompeage.
 
-{{< figure src="img/ProPic.jpg" alt="That's me alright" position="center" style="width:350px;">}}
+{{< figure src="img/ProPic.jpg" alt="That's me alright" position="center" style="width:360px;">}}
 
 
 I'm a postdoctoral researcher at the Luxembourg Institute of Health.
