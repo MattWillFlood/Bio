@@ -5,6 +5,8 @@ on:
     branches:
       - main  # Set a branch name to trigger deployment
   pull_request:
+  
+
 
 jobs:
   deploy:
@@ -12,6 +14,10 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+    
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3.7.3
+      
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
