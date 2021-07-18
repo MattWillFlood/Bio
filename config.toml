@@ -1,4 +1,4 @@
-baseURL = "http://mattwillflood.github.com/Bio/"
+baseURL = "https://mattwillflood.github.com/Bio/"
 languageCode = "en-ie"
 title = "Matt Flood"
 theme = "terminal"
