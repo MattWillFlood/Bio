@@ -30,7 +30,7 @@ Journal of Neurophysiology (2019), 122(3), 1147:1162&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245718313853">&lt;strong>&lt;em>Increased EMG Intermuscular Coherence and Reduced Signal Complexity in Parkinson’s Disease&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BR Jensen, AS Malling, MM Lowery, &lt;br>
 Clinical Neurophysiology (2019), 130(2), 259:269&lt;/p>
-&lt;/blockquote></content></item><item><title>NovaUCD Invention of the Year 2019</title><link>https://mattwillflood.github.io/Bio/honours/ucd_invent/</link><pubDate>Fri, 16 Jul 2021 16:26:43 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/ucd_invent/</guid><description>💬 🔔 📢 📰 Read the press release here &amp;raquo;
+&lt;/blockquote></content></item><item><title>NovaUCD Invention of the Year</title><link>https://mattwillflood.github.io/Bio/honours/ucd_invent/</link><pubDate>Fri, 16 Jul 2021 16:26:43 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/ucd_invent/</guid><description>💬 🔔 📢 📰 Read the press release here &amp;raquo;
 With my co-inventors Prof. Madeleine Lowery and Dr. Ben O&amp;rsquo;Callaghan, we received the 2019 NovaUCD Invention of the Year prize for our project Handalysis. The Handalysis device germinated from our project at the Royal Hospital Donnybrook, where we used wearable sensors (accelerometers) to capture and quantify various clinical assessments of individuals with Parkinson&amp;rsquo;s disease (PD). Finger tapping tests are commonly employed by therapists and clinicians to determine the degree of manual dexterity and fine motor control, which diminishes over time as PD progresses.</description><content>&lt;blockquote>
 &lt;p>💬 🔔 📢 📰 &lt;a href="https://www.ucd.ie/innovation/news-and-events/latest-news/novaucd-announces-winners-annual-innovation-awards/name,502113,en.html">&lt;strong>Read the press release here &amp;raquo;&lt;/strong>&lt;/a>&lt;/p>
 &lt;/blockquote>
@@ -132,6 +132,7 @@ renderPage(pageNum);
 &lt;/script>
 &lt;figure class="center" >
 &lt;img src="../../img/Handalysis.png" alt="Basic Setup" style="width:850px;" />
+&lt;figcaption class="center" >Basic setup of the Handalysis system&lt;/figcaption>
 &lt;/figure></content></item><item><title>Conference Presentations</title><link>https://mattwillflood.github.io/Bio/publications/cp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/cp/</guid><description>Web Search Infodemiology to Monitor the Epidemiology of or Predict the Demand for Orthopaedic Conditions and Interventions
 MW Flood, BP Grimm, M Agrawal, European Federation of National Associations of Orthopaedics and Traumatology (EFORT) Congress (2021),
 Vienna, Austria
@@ -196,13 +197,13 @@ Dublin, Ireland&lt;/p>
 International Society of Electromyography &amp;amp; Kinesiology [ISEK] (2016), &lt;br>
 Chicago [IL], USA&lt;/p>
 &lt;/blockquote></content></item><item><title>Fulbright Scholarship</title><link>https://mattwillflood.github.io/Bio/honours/fulbright/</link><pubDate>Fri, 16 Jul 2021 16:26:43 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/fulbright/</guid><description>In 2017, I was awarded the NUI-Fulbright Visiting Researcher Scholarship to undertake a part of my PhD in the Motion Analysis Lab, at the Spaulding Rehabilitation Hospital, Harvard Medical School, MA, USA.
-Under the supervision of Prof. Paolo Bonato, the research conducted during my stay
-The Fulbright Program is one of the longest running cultural exchange programs in the United States, established in 1946 by J. William Fulbright.</description><content>
+Under the supervision of Prof. Paolo Bonato, the research I conducted during my stay included developing a novel assistive exoskeleton and assessing bilateral upper limb activity in individuals with acute stroke.
+The Fulbright Program is one of the longest running cultural exchange programs in the United States, established in 1946 by J.</description><content>
 &lt;figure class="center" >
 &lt;img src="../../img/fulbrightlogo.png" style="width:500px;" />
 &lt;/figure>
 &lt;p>In 2017, I was awarded the NUI-Fulbright Visiting Researcher Scholarship to undertake a part of my PhD in the &lt;a href="https://spauldingrehab.org/research/programs-labs/motion-analysis">&lt;code>Motion Analysis Lab&lt;/code>&lt;/a>, at the Spaulding Rehabilitation Hospital, Harvard Medical School, MA, USA.&lt;br>
-Under the supervision of Prof. Paolo Bonato, the research conducted during my stay&lt;/p>
+Under the supervision of Prof. Paolo Bonato, the research I conducted during my stay included developing a novel assistive exoskeleton and assessing bilateral upper limb activity in individuals with acute stroke.&lt;/p>
 &lt;blockquote>
 &lt;p>The Fulbright Program is one of the longest running cultural exchange programs in the United States, established in 1946 by J. William Fulbright.&lt;br>
 The program provides grants for scholars to undertake research, teach or exercise their talents at institutions across the USA.
@@ -328,4 +329,14 @@ document.getElementById('page_count').textContent = pdfDoc.numPages;
 renderPage(pageNum);
 });
 }
-&lt;/script></content></item></channel></rss>
+&lt;/script></content></item><item><title>IAESTE Scholarship</title><link>https://mattwillflood.github.io/Bio/honours/iaeste/</link><pubDate>Fri, 16 Jul 2021 16:26:43 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/iaeste/</guid><description>https://www.leargas.ie/programmes/iaeste/
+About IASETE The International Association for the Exchange of Students for Technical Experience (IAESTE)
+In the aftermath of World War II, a new spirit pervaded the world: a desire for international understanding and co-operation. It was this spirit that brought forth both the United Nations (UN) and IAESTE, organisations dedicated to promoting these objectives. Today we believe that students with international experience are the key to tackling today&amp;rsquo;s global challenges.</description><content>&lt;p>&lt;a href="https://www.leargas.ie/programmes/iaeste/">https://www.leargas.ie/programmes/iaeste/&lt;/a>&lt;/p>
+&lt;figure class="center" >
+&lt;img src="../../img/iaeste.png" style="width:500px;" />
+&lt;/figure>
+&lt;blockquote>
+&lt;p>About IASETE &lt;br>
+The International Association for the Exchange of Students for Technical Experience (IAESTE)&lt;br>
+In the aftermath of World War II, a new spirit pervaded the world: a desire for international understanding and co-operation. It was this spirit that brought forth both the United Nations (UN) and IAESTE, organisations dedicated to promoting these objectives. Today we believe that students with international experience are the key to tackling today&amp;rsquo;s global challenges.&lt;/p>
+&lt;/blockquote></content></item></channel></rss>
