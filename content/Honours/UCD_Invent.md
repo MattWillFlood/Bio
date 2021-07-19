@@ -1,5 +1,5 @@
 ---
-title: "NovaUCD Invention of the Year 2019"
+title: "NovaUCD Invention of the Year"
 date: 2021-07-16T16:26:43+02:00
 draft: false
 weight: 1
@@ -21,4 +21,4 @@ The Handalysis system could be instrumental in providing an objective assessment
 
 {{< embed-pdf url="doc/Handalysis.pdf" >}}
 
-{{< figure src="../../img/Handalysis.png" alt="Basic Setup" position="center" style="width:850px;">}}
+{{< figure src="../../img/Handalysis.png" alt="Basic Setup" position="center" style="width:850px;" caption="Basic setup of the Handalysis system" >}}

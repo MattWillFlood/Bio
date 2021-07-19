@@ -11,7 +11,7 @@ cover: "img/NUI Trio 2.jpg"
 
 
 In 2017, I was awarded the NUI-Fulbright Visiting Researcher Scholarship to undertake a part of my PhD in the [`Motion Analysis Lab`](https://spauldingrehab.org/research/programs-labs/motion-analysis), at the Spaulding Rehabilitation Hospital, Harvard Medical School, MA, USA.   
-Under the supervision of Prof. Paolo Bonato, the research conducted during my stay 
+Under the supervision of Prof. Paolo Bonato, the research I conducted during my stay included developing a novel assistive exoskeleton and assessing bilateral upper limb activity in individuals with acute stroke.
 
 
 > The Fulbright Program is one of the longest running cultural exchange programs in the United States, established in 1946 by J. William Fulbright.  
