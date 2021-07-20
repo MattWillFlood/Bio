@@ -21,11 +21,9 @@
           {{ end }}
           {{ end }}
         </div>
-
         {{ if .Params.Cover }}
-          <img src="{{ .Params.Cover | absURL }}" style="width:450px;"  class="post-cover" alt="{{ .Title | plainify | default " " }}" />
+          <img src="{{ .Params.Cover | absURL }}" style="width:400px;"  class="post-cover" alt="{{ .Title | plainify | default " " }}" />
         {{ end }}
-
         {{ if not .Params.showFullContent }}
         <div>
           <a class="read-more button"

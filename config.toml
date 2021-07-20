@@ -62,15 +62,21 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Matt Flood"
+      logoText = "|> Matt Flood"
       logoHomeLink = "/Bio"
 
     [languages.en.menu]   
       [[languages.en.menu.main]]
+        identifier = "About"
+        name = "About"
+        url = "/"
+        weight = 1
+
+      [[languages.en.menu.main]]
         identifier = "Research"
         name = "Research"
         url = "/Research"
-        weight = 1  
+        weight = 2  
 
     
     # [[languages.en.menu.main.children]]
@@ -78,18 +84,20 @@ paginate = 5
     #    name = "TEMP"
     #    url = "/xx/TEMP"
     #    parent = "Research"
-    #    weight = 1 
+    #    weight = 2 
 
-
-      [[languages.en.menu.main]]
-        identifier = "Honours"
-        name = "Honours"
-        url = "/Honours"
-        weight = 2
 
       [[languages.en.menu.main]]
         identifier = "Publications"
         name = "Publications"
         url = "/Publications"
         weight = 3
+
+      [[languages.en.menu.main]]
+        identifier = "Honours"
+        name = "Honours"
+        url = "/Honours"
+        weight = 4
+
+
 
