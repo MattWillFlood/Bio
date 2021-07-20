@@ -26,12 +26,12 @@ Previous research of mine was focused on quantiative assessments of Parkinson's 
 
       <script type="text/javascript">var submitted=false;</script>
       <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-      onload="if(submitted) {window.location='thanks.html';}"></iframe>
+      onload="if(submitted) {window.location="/thanks";}"></iframe>
 
-      <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       </form>    
 
-      <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post">
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post">
 
       <label>Subject*</label>
             <input type="text" placeholder="Saying Hello" name="entry.1508892675" required>            
