@@ -15,34 +15,45 @@ Previous research of mine was focused on quantiative assessments of Parkinson's 
 
 {{< figure src="img/ProPic.jpg" alt="That's me alright" position="center" style="width:360px;">}}
 
+:briefcase: :hospital: :microscope: :computer: :mortar_board:  
+:clapper: :books: :rowboat:      
+:house_with_garden: - :ireland:     
+:round_pushpin:  - :luxembourg:   
+
 ### Get in touch!  :email: 
 ````
 {{< rawhtml >}}
-      <form action="https://forms.gle/oTEzYE6Yx2GLKx3DA" method="post">
-      <label>Subject</label>
-            <input type="text" placeholder="Subject" name="entry.1508892675" required>      
-      
-      <label>Message</label>
-            <textarea rows="5" placeholder="Message*" name="entry.108518252" required></textarea>
-      
-      <label>Email</label>
-            <input type="email" placeholder="Email" name="entry.1045781291" required>
+
+      <script type="text/javascript">var submitted=false;</script>
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+      onload="if(submitted) {window.location='thanks.html';}"></iframe>
+
+      <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+      </form>    
+
+      <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLScaAEg1ULj3eDl-gN0V8wVDp3xiRuh7QUrfQRqKdp1IMtoNMQ/formResponse" method="post">
+
+      <label>Subject*</label>
+            <input type="text" placeholder="Saying Hello" name="entry.1508892675" required>            
+      <label>Message*</label>
+            <textarea rows="5" placeholder="Blah blah blah..." name="entry.108518252" required></textarea>
+      <label>Email*</label>
+            <input type="email" placeholder="example@abc.xyz" name="entry.1045781291" required>
       
       <button type="submit">Send</button>
-      </form>
 
+      </form>
 {{< /rawhtml >}}
 ````
+
+
+### Find me on:
 
 | [{{< figure src="img/ORCID_iD.png" style="width:30px;" position="center" >}}](https://orcid.org/0000-0002-5674-424X)  |  [{{< figure src="img/RG.png" style="width:30px;" position="center" >}}](https://www.researchgate.net/profile/Matthew-Flood-3)  |  [{{< figure src="img/GS.png" style="width:30px;" position="center" >}}](https://scholar.google.com/citations?user=bimxEBUAAAAJ&hl)  |   [{{< figure src="img/Publons.png" style="width:30px;" position="center" >}}](https://publons.com/researcher/3408315/matthew-w-flood/)  |    [{{< figure src="img/LI.png" style="width:30px;" position="center" >}}](https://ie.linkedin.com/in/matthew-flood-a2286433) | [{{< figure src="img/GH2.png" style="width:35px;" position="center" >}}](https://www.github.com/MattWillFlood)  | [{{< figure src="img/EH1.png" style="width:35px;" position="center" >}}](https://www.EntropyHub.xyz)  |
 |----|----|----|----|----|----|----|
 <!-- | Orcid | ResearchGate | Google Scholar | Publons | LinkedIn | GitHub | EntropyHub | -->
 
-
-:briefcase: :hospital: :microscope: :computer: :mortar_board:  
-:clapper: :books: :rowboat:      
-:house_with_garden: - :ireland:     
-:round_pushpin:  - :luxembourg:    
+ 
 
 
 <!-- {{< figure src="img/Workshop.jpg" alt="Me again" position="center" style="width:300px;">}}-->
