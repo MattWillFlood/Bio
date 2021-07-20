@@ -2,7 +2,7 @@
 title: "Journal Papers"
 date: 2021-07-16T16:26:51+02:00
 draft: false
-description: "Articles published in international peer-reviewed journals."
+description: "Articles published in international peer-reviewed journals. "
 weight: 1
 ---
 

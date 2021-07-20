@@ -48,9 +48,9 @@ paginate = 5
     languageName = "English"
     title = "Matt Flood"
     subtitle = "A little bit about me"
-    owner = ""
+    owner = "Matthew W. Flood"
     keywords = ""
-    copyright = ""
+    copyright = "© Copyright 2021,  Matthew W. Flood"
     menuMore = "Show more"
     readMore = "Have a look"
     readOtherPosts = "Read other posts"
@@ -63,12 +63,21 @@ paginate = 5
       logoText = "Matt Flood"
       logoHomeLink = "/Bio"
 
-    [languages.en.menu]       
+    [languages.en.menu]   
       [[languages.en.menu.main]]
         identifier = "Research"
         name = "Research"
         url = "/Research"
-        weight = 1
+        weight = 1  
+
+    
+    # [[languages.en.menu.main.children]]
+    #    identifier = "EMG Entropy"
+    #    name = "TEMP"
+    #    url = "/xx/TEMP"
+    #    parent = "Research"
+    #    weight = 1 
+
 
       [[languages.en.menu.main]]
         identifier = "Honours"

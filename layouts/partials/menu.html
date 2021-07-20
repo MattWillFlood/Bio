@@ -8,8 +8,8 @@
       {{ end }}
       {{ if gt (len $.Site.Menus.main) $.Site.Params.showMenuItems }}
         <ul class="menu__sub-inner">
-          <li class="menu__sub-inner-more-trigger">{{ $.Site.Params.MenuMore }} ▾</li>
-
+          <li class="menu__sub-inner-more-trigger">{{ $.Site.Params.MenuMore }} ▾</li> 
+           
           <ul class="menu__sub-inner-more hidden">
             {{ range last (sub (len $.Site.Menus.main) $.Site.Params.showMenuItems) $.Site.Menus.main }}
               {{ if not .HasChildren }}

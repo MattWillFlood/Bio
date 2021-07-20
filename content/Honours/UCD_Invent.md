@@ -2,7 +2,7 @@
 title: "NovaUCD Invention of the Year"
 date: 2021-07-16T16:26:43+02:00
 draft: false
-weight: 1
+weight: 96
 description: "Awarded the 2019 NovaUCD Invention of the Year prize for the project `Handalysis` with colleagues and co-inventors, Prof. Madeleine Lowery and Dr. Ben O'Callaghan."
 cover: "img/Handalysis.png"
 ---
