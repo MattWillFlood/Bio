@@ -10,5 +10,5 @@ cover: "img/Julia.png"
 
 In the pages below, you will find the relevant material (slides, worksheets) for each week of the course.
 
-[**Course Overview**](url goes here)   
+[**Course Overview**](../../doc/CourseOutline.pdf)   
 
