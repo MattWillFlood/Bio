@@ -62,7 +62,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "|> Matt Flood"
+      logoText = "Matt Flood  |>|>"
       logoHomeLink = "/Bio"
 
     [languages.en.menu]   
@@ -98,6 +98,12 @@ paginate = 5
         name = "Honours"
         url = "/Honours"
         weight = 4
+
+      [[languages.en.menu.main]]
+        identifier = "Teaching"
+        name = "Teaching"
+        url = "/Teaching"
+        weight = 5
 
 
 

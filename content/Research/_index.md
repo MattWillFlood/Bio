@@ -5,4 +5,5 @@ draft: false
 description: "Research projects, grants and interests."
 ---
 
+{{< figure src="../img/Lab.png" position="center" style="width:300px; ">}}
 
