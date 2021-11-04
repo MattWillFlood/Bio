@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mattwillflood.github.io/Bio/research/entropyhub/</loc>
+    <lastmod>2021-07-20T14:16:20+02:00</lastmod>
+  </url><url>
     <loc>https://mattwillflood.github.io/Bio/publications/jp/</loc>
     <lastmod>2021-07-16T16:26:51+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/research/electromyography-decomposition/</loc>
+    <lastmod>2021-07-20T14:16:20+02:00</lastmod>
   </url><url>
     <loc>https://mattwillflood.github.io/Bio/publications/cp/</loc>
     <lastmod>2021-07-16T16:26:51+02:00</lastmod>
   </url><url>
     <loc>https://mattwillflood.github.io/Bio/publications/patents/</loc>
     <lastmod>2021-07-17T20:51:20+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/research/wikikneedia/</loc>
+    <lastmod>2021-07-20T14:16:20+02:00</lastmod>
   </url><url>
     <loc>https://mattwillflood.github.io/Bio/honours/ucd_invent/</loc>
     <lastmod>2021-07-16T16:26:43+02:00</lastmod>
@@ -26,10 +35,31 @@
     <loc>https://mattwillflood.github.io/Bio/honours/iaeste/</loc>
     <lastmod>2021-07-16T16:26:43+02:00</lastmod>
   </url><url>
-    <loc>https://mattwillflood.github.io/Bio/research/entropyhub/</loc>
-    <lastmod>2021-07-20T14:16:20+02:00</lastmod>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
   </url><url>
     <loc>https://mattwillflood.github.io/Bio/research/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-1/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-2/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-3/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-4/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-5/</loc>
+    <lastmod>2021-07-16T16:35:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mattwillflood.github.io/Bio/teaching/programming-101/week-6/</loc>
     <lastmod>2021-07-16T16:35:38+02:00</lastmod>
   </url><url>
     <loc>https://mattwillflood.github.io/Bio/publications/</loc>

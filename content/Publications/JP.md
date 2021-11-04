@@ -9,7 +9,7 @@ weight: 1
 
 > [**_EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis_**](https://doi.org/10.1371/journal.pone.0259448)                                            
    **MW Flood** and Bernd Grimm,                              
-   PLoS One (2021)
+   PLoS One (2021), 16(11):e0259448
 
 
 > [**_Solving the Problems of Gas Leakage at Laparoscopy_**](https://bjssjournals.onlinelibrary.wiley.com/doi/full/10.1002/bjs.11977)                                            

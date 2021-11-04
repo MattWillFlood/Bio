@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Computer Programming in Julia on Matt Flood</title>
+    <link>https://mattwillflood.github.io/Bio/teaching/programming-101/</link>
+    <description>Recent content in Intro to Computer Programming in Julia on Matt Flood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <copyright>© Copyright 2021,  Matthew W. Flood</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 16:35:38 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/teaching/programming-101/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
