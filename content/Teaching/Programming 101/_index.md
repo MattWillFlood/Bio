@@ -10,5 +10,8 @@ cover: "img/Julia.png"
 
 In the pages below, you will find the relevant material (slides, worksheets) for each week of the course.
 
-[**Course Overview**](../../doc/CourseOutline.pdf)   
+[comment]: <> ([**Course Overview**](../../doc/CourseOutline.pdf))
+
+{{< embed-pdf url="doc/CourseOutline.pdf" renderPageNum="1" >}}
+
 
