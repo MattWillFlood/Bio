@@ -21,10 +21,7 @@ outline:0;
 
 .form-input:focus { border:2px solid #78e2a0; }
 
-.video-shortcode {
-    max-width: 100%;
-    height: auto;
-  }
+
 
 textarea {
 height: 150px;
