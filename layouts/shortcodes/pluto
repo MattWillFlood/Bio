@@ -1,0 +1,4 @@
+<!--pluto.html--> 
+ <iframe src="{{ index .Params 0 }}.html"
+        style="height:{{ index .Params 1}}px;width:100%;border:none;overflow:hidden;" scrolling="no"></iframe>
+      <!--<h6><a href="{{ index .Params 0 }}.html">Click here to view this notebook in full screen</a></h6>-->

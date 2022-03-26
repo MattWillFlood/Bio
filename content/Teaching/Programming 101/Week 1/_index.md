@@ -5,20 +5,24 @@ draft: false
 description: "Why Learn Julia? // The Julia REPL // Installing Packages // Pluto"
 ---
 
-# Week 1 - Why Learn Julia? // The Julia REPL // Installing Packages // Pluto
+## Week 1:
 
-Material can be accessed and downloaded here:
+* Why Learn Julia? 
+* The Julia REPL 
+* Installing Packages 
+* Pluto.jl
 
-Link to GitHub
+> Material can be accessed and downloaded [here](https://github.com/MattWillFlood/Introduction-to-Computer-Programming-in-Julia/tree/main/Week%201).
 
-### Topics Covered:
+### Lecture Slides:
+{{< youtube __REzavFfto >}}
 
-* intro
-* Something else
+### Tutorial Exercises:
+{{< pluto Week1 1500 >}}
+
+[Click to edit file interactively >>](Week1.html)
 
 
-{{< video src="/vids/Week1.mp4" type="video/mp4" preload="auto" >}}
-
-
+### Homework Assignment:
 {{< embed-pdf url="doc/Week1Homework.pdf" >}}
 
