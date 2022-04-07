@@ -5,5 +5,24 @@ draft: false
 description: "Relationship to MatLab + Numpy // Important Math Packages // Statistics 101 // Vector & Matric Operations"
 ---
 
+## Week 5:
 
+* Relationship to MatLab + Numpy
+* Important Math Packages 
+* Statistics 101
+* Vector & Matric Operations
+
+> Material can be accessed and downloaded [here](https://github.com/MattWillFlood/Introduction-to-Computer-Programming-in-Julia/tree/main/Week%205).
+
+### Lecture Slides:
+{{< youtube rk2gYNN_QbA >}}
+
+### Tutorial Exercises:
+{{< pluto Week5 4500 >}}
+
+[Click to edit file interactively >>](Week5.html)
+
+
+### Homework Assignment:
+{{< embed-pdf url="doc/Week5Homework.pdf" >}}
 

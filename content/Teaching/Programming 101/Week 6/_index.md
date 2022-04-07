@@ -5,5 +5,20 @@ draft: false
 description: "Relationship to Pandas + *R* // DataFrames 101 // Data Visualization"
 ---
 
+## Week 6:
+
+* Relationship to Pandas + *R* 
+* DataFrames 101 
+* Data Visualization
+
+> Material can be accessed and downloaded [here](https://github.com/MattWillFlood/Introduction-to-Computer-Programming-in-Julia/tree/main/Week%206).
+
+### Lecture Slides:
+{{< youtube 1F51eBbTg_Y >}}
+
+### Tutorial Exercises:
+{{< pluto Week6 4500 >}}
+
+[Click to edit file interactively >>](Week6.html)
 
 

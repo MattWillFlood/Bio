@@ -17,8 +17,6 @@ In the pages below, you will find the relevant material (slides, worksheets) for
 Additionally All material can be downloaded from the [_Intro to Computer Programming in Julia_ GitHub repo](https://github.com/MattWillFlood/Introduction-to-Computer-Programming-in-Julia)
 
 
-[comment]: <> ([**Course Overview**](../../doc/CourseOutline.pdf))
-
 {{< embed-pdf url="doc/CourseOutline.pdf" renderPageNum="1" >}}
 
 
