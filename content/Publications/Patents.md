@@ -8,4 +8,4 @@ weight: 3
 
 > **_Kinematic Data Processing_**                                    
 **MW Flood**, BPF O'Callaghan,  MM Lowery,           
-PCT # - PCT/EP2020/070706 (European Patent Office)
+PCT # - [PCT/EP2020/070706](https://worldwide.espacenet.com/patent/search?q=pn%3DWO2021013898A1) (European Patent Office)
