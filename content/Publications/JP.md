@@ -6,11 +6,13 @@ description: "Articles published in international peer-reviewed journals. "
 weight: 1
 ---
 
+> [**_Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces_**](https://doi.org/10.1016/j.jbiomech.2022.111159)      
+   V Shah, **MW Flood**, B Grimmm, PC Dixon,       
+   Journal of Biomechanics (2022), 139, 111159
 
 > [**_EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis_**](https://doi.org/10.1371/journal.pone.0259448)                                            
    **MW Flood** and Bernd Grimm,                              
    PLoS One (2021), 16(11):e0259448
-
 
 > [**_Solving the Problems of Gas Leakage at Laparoscopy_**](https://bjssjournals.onlinelibrary.wiley.com/doi/full/10.1002/bjs.11977)                                            
    RA Cahill, J Dalli, F Khan, **MW Flood**, K Nolan,                              
