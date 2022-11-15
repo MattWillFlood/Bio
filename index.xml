@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Matt Flood</title><link>https://mattwillflood.github.io/Bio/</link><description>Recent content in About on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en-ie</language><copyright>© Copyright 2022, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 01:04:37 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/index.xml" rel="self" type="application/rss+xml"/><item><title>Journal Papers</title><link>https://mattwillflood.github.io/Bio/publications/jp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/jp/</guid><description>Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces V Shah, MW Flood, B Grimmm, PC Dixon, Journal of Biomechanics (2022), 139, 111159
-EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis MW Flood and Bernd Grimm, PLoS One (2021), 16(11):e0259448
-Solving the Problems of Gas Leakage at Laparoscopy RA Cahill, J Dalli, F Khan, MW Flood, K Nolan, British Journal of Surgery (2020), 107, 1401:1405
-Editor's Choice 2020 Quantitative Clinical Assessmnet of Motor Function During and Following LSVT-BIG® Therapy MW Flood, BPF O&amp;rsquo;Callaghan, P Diamond, J Liegey, G Hughes, MM Lowery, Journal of NeuroEngineering and Rehabilitation (2020), 17(92)</description><content>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Matt Flood</title><link>https://mattwillflood.github.io/Bio/</link><description>Recent content in About on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en-ie</language><copyright>© Copyright 2022, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 01:04:37 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/index.xml" rel="self" type="application/rss+xml"/><item><title>Journal Papers</title><link>https://mattwillflood.github.io/Bio/publications/jp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/jp/</guid><description>Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge EP Doheny, MW Flood, S Ryan, C McCarthy, O O&amp;rsquo;Carroll, et al. International Journal of Bioinformatics (2022), 169, 104911
+Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces V Shah, MW Flood, B Grimmm, PC Dixon, Journal of Biomechanics (2022), 139, 111159
+EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis MW Flood and Bernd Grimm, PLoS One (2021), 16(11):e0259448</description><content>&lt;blockquote>
+&lt;p>&lt;a href="https://doi.org/10.1016/j.ijmedinf.2022.104911">&lt;strong>&lt;em>Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge&lt;/em>&lt;/strong>&lt;/a> &lt;br>
+EP Doheny, &lt;strong>MW Flood&lt;/strong>, S Ryan, C McCarthy, O O&amp;rsquo;Carroll, &lt;em>et al.&lt;/em> &lt;br>
+International Journal of Bioinformatics (2022), 169, 104911&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
 &lt;p>&lt;a href="https://doi.org/10.1016/j.jbiomech.2022.111159">&lt;strong>&lt;em>Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 V Shah, &lt;strong>MW Flood&lt;/strong>, B Grimmm, PC Dixon, &lt;br>
 Journal of Biomechanics (2022), 139, 111159&lt;/p>
@@ -41,25 +45,46 @@ Journal of Neurophysiology (2019), 122(3), 1147:1162&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245718313853">&lt;strong>&lt;em>Increased EMG Intermuscular Coherence and Reduced Signal Complexity in Parkinson’s Disease&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BR Jensen, AS Malling, MM Lowery, &lt;br>
 Clinical Neurophysiology (2019), 130(2), 259:269&lt;/p>
-&lt;/blockquote></content></item><item><title>Conference Presentations</title><link>https://mattwillflood.github.io/Bio/publications/cp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/cp/</guid><description>Web Search Infodemiology to Monitor the Epidemiology of or Predict the Demand for Orthopaedic Conditions and Interventions
-MW Flood, BP Grimm, M Agrawal, European Federation of National Associations of Orthopaedics and Traumatology (EFORT) Congress (2021),
-Vienna, Austria
-Application of the Teagar-Kaiser Energy Operator and Wavelet Transform for Detection of Finger Tapping Contact and Release Times Using Accelerometery BPF O’Callaghan, MW Flood, MM Lowery IEEE Engineering in Medicine &amp;amp; Biology Conference (2019), 4596:4599,</description><content>&lt;blockquote>
+&lt;/blockquote></content></item><item><title>Conference Presentations</title><link>https://mattwillflood.github.io/Bio/publications/cp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/cp/</guid><description>Markerless Motion Capture for Clinical Movement Analysis and Influence of Clothing on Gait Metrics
+MW Flood, P Gette, J Cabri, BP Grimm, International Congress of Orthopaedic Research Societies [ICORS] (2022), Edinburgh, UK
+Invited Speaker EntropyHub
+MW Flood IEEE Engineering in Medicine &amp;amp; Biology Conference [EMBC] (2022), Symposium: Recent Advances in Entropy Algorithms for Biomedical Signals: Beyond Univariate Time Series, Glasgow, UK
+Identifying Optimum Time Delay Embedding Parameters for Nonlinear Surface EMG Analysis</description><content>&lt;blockquote>
+&lt;p>&lt;strong>&lt;em>Markerless Motion Capture for Clinical Movement Analysis and Influence of Clothing on Gait Metrics&lt;/em>&lt;/strong>&lt;br>
+&lt;strong>MW Flood&lt;/strong>, P Gette, J Cabri, BP Grimm, &lt;br>
+International Congress of Orthopaedic Research Societies [ICORS] (2022),
+Edinburgh, UK&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;code>Invited Speaker&lt;/code> &lt;br>
+&lt;strong>&lt;em>EntropyHub&lt;/em>&lt;/strong>&lt;br>
+&lt;strong>MW Flood&lt;/strong> &lt;br>
+IEEE Engineering in Medicine &amp;amp; Biology Conference [EMBC] (2022), &lt;br>
+Symposium: &lt;em>Recent Advances in Entropy Algorithms for Biomedical Signals: Beyond Univariate Time Series&lt;/em>, &lt;br>
+Glasgow, UK&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;strong>&lt;em>Identifying Optimum Time Delay Embedding Parameters for Nonlinear Surface EMG Analysis&lt;/em>&lt;/strong>&lt;br>
+&lt;strong>MW Flood&lt;/strong>, L McManus, S Senneff, D Periera Botehlo, MM Lowery, &lt;br>
+International Society for Electrophysiology and Kinesiology [ISEK] (2022),&lt;br>
+Quebec City, Canada&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
 &lt;p>&lt;strong>&lt;em>Web Search Infodemiology to Monitor the Epidemiology of or Predict the Demand for Orthopaedic Conditions and Interventions&lt;/em>&lt;/strong>&lt;br>
 &lt;strong>MW Flood&lt;/strong>, BP Grimm, M Agrawal, &lt;br>
-European Federation of National Associations of Orthopaedics and Traumatology (EFORT) Congress (2021),&lt;br>
+European Federation of National Associations of Orthopaedics and Traumatology [EFORT] Congress (2021),&lt;br>
 Vienna, Austria&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;strong>&lt;em>Application of the Teagar-Kaiser Energy Operator and Wavelet Transform for Detection of Finger Tapping Contact and Release Times Using Accelerometery&lt;/em>&lt;/strong> &lt;br>
 BPF O’Callaghan, &lt;strong>MW Flood&lt;/strong>, MM Lowery &lt;br>
-IEEE Engineering in Medicine &amp;amp; Biology Conference (2019), 4596:4599,&lt;br>
+IEEE Engineering in Medicine &amp;amp; Biology Conference [EMBC] (2019), 4596:4599,&lt;br>
 Berlin, Germany&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;strong>&lt;em>The Influence of Force Level and Motor Unit Coherence on Nonlinear Surface EMG Features Examined Using Model Simulation&lt;/em>&lt;/strong> &lt;br>
 L McManus, DP Botehlo, &lt;strong>MW Flood&lt;/strong>, MM Lowery &lt;br>
-IEEE Engineering in Medicine &amp;amp; Biology Conference (2019), 6616:6619, &lt;br>
+IEEE Engineering in Medicine &amp;amp; Biology Conference [EMBC] (2019), 6616:6619, &lt;br>
 Berlin, Germany&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
@@ -72,7 +97,7 @@ Bahia, Brazil&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>&lt;em>Dynamic Movement in Parkinson&amp;rsquo;s Disease Quantified Using Nonlinear EMG Features&lt;/em>&lt;/strong> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BPF O&amp;rsquo;Callaghan, P Diamond, MM Lowery&lt;br>
-International Society of Electromyography &amp;amp; Kinesiology [ISEK] (2018), &lt;br>
+International Society of Electrophysiology &amp;amp; Kinesiology [ISEK] (2018), &lt;br>
 Dublin, Ireland&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
@@ -102,12 +127,29 @@ Dublin, Ireland&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>&lt;em>Nonlinear Analysis of Electromyography in Parkinson’s Disease during Isometric Leg Extension&lt;/em>&lt;/strong> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BR Jensen, AS Bogh-Malling, MM Lowery, &lt;br>
-International Society of Electromyography &amp;amp; Kinesiology [ISEK] (2016), &lt;br>
+International Society of Electrophysiology &amp;amp; Kinesiology [ISEK] (2016), &lt;br>
 Chicago [IL], USA&lt;/p>
 &lt;/blockquote></content></item><item><title>Patents</title><link>https://mattwillflood.github.io/Bio/publications/patents/</link><pubDate>Sat, 17 Jul 2021 20:51:20 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/patents/</guid><description>Kinematic Data Processing MW Flood, BPF O&amp;rsquo;Callaghan, MM Lowery, PCT # - PCT/EP2020/070706 (European Patent Office)</description><content>&lt;blockquote>
 &lt;p>&lt;strong>&lt;em>Kinematic Data Processing&lt;/em>&lt;/strong> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BPF O&amp;rsquo;Callaghan, MM Lowery, &lt;br>
 PCT # - &lt;a href="https://worldwide.espacenet.com/patent/search?q=pn%3DWO2021013898A1">PCT/EP2020/070706&lt;/a> (European Patent Office)&lt;/p>
+&lt;/blockquote></content></item><item><title>Wolfgang Baertz Award</title><link>https://mattwillflood.github.io/Bio/accomplishments/baertz/</link><pubDate>Wed, 02 Nov 2022 11:59:04 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/accomplishments/baertz/</guid><description>In 2022, I was fortunate to receive the Wolfgang Baertz Award for my project proposal: Assessing Neuromuscular Function with Kayak Ergometry Training and its Translation to Physical therapy in Parkinson's Disease.
+This project aims to answer 3 questions:
+Does the kayaking technique of elite athletes, quantified from wearable IMU/EMG data using nonlinear methods, relate to specific muscle control strategies and overall performance? Do individuals with movement disorders (geriatrics, neurodegenerative disease, etc.</description><content>&lt;p>In 2022, I was fortunate to receive the Wolfgang Baertz Award for my project proposal: &lt;code>Assessing Neuromuscular Function with Kayak Ergometry Training and its Translation to Physical therapy in Parkinson's Disease&lt;/code>.&lt;/p>
+&lt;p>This project aims to answer 3 questions:&lt;/p>
+&lt;ol>
+&lt;li>Does the kayaking technique of elite athletes, quantified from wearable IMU/EMG data using nonlinear methods, relate to specific muscle control strategies and overall performance?&lt;/li>
+&lt;li>Do individuals with movement disorders (geriatrics, neurodegenerative disease, etc.) improve their motor and respiratory function from a regimen of regular kayak ergometry exercises?&lt;/li>
+&lt;li>Can the methods used to answer Q.1 capture adaptations in motor performance in the groups of Q.2?&lt;/li>
+&lt;/ol>
+&lt;p>Part 1 of this project will be conducted in collaboration with &lt;a href="https://vbn.aau.dk/da/persons/128011">Prof. Mathias Kristiansen&lt;/a> and his team at the University of Aalborg, Denmark. &lt;br>
+Part 2 will be conducted locally in partnership with neurologist &lt;a href="https://researchportal.lih.lu/en/persons/deborah-mcintyre">Dr Deborah McIntyre&lt;/a>.&lt;/p>
+&lt;blockquote>
+&lt;p>About the &lt;code>Wolfgang Baertz Award&lt;/code>&lt;br>
+Following a generous donation by the late Mr Wolfgang Baertz in support of its research activities, LIH has set up a career launchpad award to fund postdoctoral fellows through €10,000 scholarships. &lt;br>
+The initiative aims to support young researchers in finalising or initiating a promising and innovative research project, thus helping launch their careers. &lt;br>
+The grant may be used to carry out additional experiments which could lead to a scientific breakthrough, or to generate preliminary findings to enable the awardee to establish his/her own research line. &lt;br>
+This could include travelling to a renowned laboratory to allow the applicant to learn new techniques, develop research skills, bridge the gap between research and practice, initiate third-party funded projects and consolidate his professional network.&lt;/p>
 &lt;/blockquote></content></item><item><title>NovaUCD Invention of the Year</title><link>https://mattwillflood.github.io/Bio/accomplishments/ucd_invent/</link><pubDate>Fri, 16 Jul 2021 16:26:43 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/accomplishments/ucd_invent/</guid><description>💬 🔔 📢 📰 Read the press release here &amp;raquo;
 With my co-inventors Prof. Madeleine Lowery and Dr. Ben O&amp;rsquo;Callaghan, we received the 2019 NovaUCD Invention of the Year prize for our project Handalysis. The Handalysis device germinated from our project at the Royal Hospital Donnybrook, where we used wearable sensors (accelerometers) to capture and quantify various clinical assessments of individuals with Parkinson&amp;rsquo;s disease (PD). Finger tapping tests are commonly employed by therapists and clinicians to determine the degree of manual dexterity and fine motor control, which diminishes over time as PD progresses.</description><content>&lt;blockquote>
 &lt;p>💬 🔔 📢 📰 &lt;a href="https://www.ucd.ie/innovation/news-and-events/latest-news/novaucd-announces-winners-annual-innovation-awards/name,502113,en.html">&lt;strong>Read the press release here &amp;raquo;&lt;/strong>&lt;/a>&lt;/p>
@@ -119,7 +161,7 @@ The Handalysis system could be instrumental in providing an objective assessment
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/wh9NfqR29Po" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;script type="text/javascript" src= '/Bio//js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
@@ -273,7 +315,7 @@ As industries begin to integrate biofeedback into all manner of consumer product
 &lt;img src="../../img/PATW.jpg" alt="Basic Setup" style="width:850px;" />
 &lt;figcaption class="center" >Competitors representing IET networks from countries across Europe, Middle East and Africa, at the EMEA round held in Dublin.&lt;/figcaption>
 &lt;/figure>
-&lt;script type="text/javascript" src= '/Bio//js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
