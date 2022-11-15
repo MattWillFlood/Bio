@@ -6,6 +6,10 @@ description: "Articles published in international peer-reviewed journals. "
 weight: 1
 ---
 
+> [**_Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge_**](https://doi.org/10.1016/j.ijmedinf.2022.104911)         
+   EP Doheny, **MW Flood**, S Ryan, C McCarthy, O O'Carroll, _et al._     
+   International Journal of Bioinformatics (2022), 169, 104911     
+
 > [**_Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces_**](https://doi.org/10.1016/j.jbiomech.2022.111159)      
    V Shah, **MW Flood**, B Grimmm, PC Dixon,       
    Journal of Biomechanics (2022), 139, 111159

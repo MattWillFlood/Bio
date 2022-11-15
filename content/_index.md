@@ -32,10 +32,6 @@ Some of my main research interests include:
 * **Markerless (Monocular) Motion Capture:**  
   *Development and application of markerless (monocular) motion capture for the assessment of pathology and real-world monitoring of gait pre and post surgery.*
 
-* **Web Search Infodemiology:**     
-  *Using open-source internet data (traffic volume, search term frequency, etc.) to identify trends and patterns of behaviour that can inform about public behaviour when seeking medical info online.*
-  *Currently developing a graph network model to examine correlated search trends for orthopaedic and neuromuscular disease.*   
-
 * **Wearable Sensor Applications in Medicine:**   
   *Always following latest innovations in the area of wearable sensors and devices for clinical research.*
   

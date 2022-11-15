@@ -6,19 +6,36 @@ description: "Oral and poster presentations at international conferences."
 weight: 2
 ---
 
+> **_Markerless Motion Capture for Clinical Movement Analysis and Influence of Clothing on Gait Metrics_**   
+**MW Flood**, P Gette, J Cabri, BP Grimm,    
+International Congress of Orthopaedic Research Societies [ICORS] (2022),
+Edinburgh, UK      
+
+> `Invited Speaker`     
+**_EntropyHub_**   
+**MW Flood**    
+IEEE Engineering in Medicine & Biology Conference [EMBC] (2022),      
+Symposium: _Recent Advances in Entropy Algorithms for Biomedical Signals: Beyond Univariate Time Series_,       
+Glasgow, UK      
+
+> **_Identifying Optimum Time Delay Embedding Parameters for Nonlinear Surface EMG Analysis_**   
+**MW Flood**, L McManus, S Senneff, D Periera Botehlo, MM Lowery,    
+International Society for Electrophysiology and Kinesiology [ISEK] (2022),   
+Quebec City, Canada      
+
 > **_Web Search Infodemiology to Monitor the Epidemiology of or Predict the Demand for Orthopaedic Conditions and Interventions_**   
 **MW Flood**, BP Grimm, M Agrawal,    
-European Federation of National Associations of Orthopaedics and Traumatology (EFORT) Congress (2021),   
+European Federation of National Associations of Orthopaedics and Traumatology [EFORT] Congress (2021),   
 Vienna, Austria      
   
 > **_Application of the Teagar-Kaiser Energy Operator and Wavelet Transform for Detection of Finger Tapping Contact and Release Times Using Accelerometery_**    
 BPF O’Callaghan, **MW Flood**, MM Lowery      
-IEEE Engineering in Medicine & Biology Conference (2019), 4596:4599,   
+IEEE Engineering in Medicine & Biology Conference [EMBC] (2019), 4596:4599,   
 Berlin, Germany
 
 > **_The Influence of Force Level and Motor Unit Coherence on Nonlinear Surface EMG Features Examined Using Model Simulation_**       
 L McManus, DP Botehlo, **MW Flood**, MM Lowery          
-IEEE Engineering in Medicine & Biology Conference (2019), 6616:6619,    
+IEEE Engineering in Medicine & Biology Conference [EMBC] (2019), 6616:6619,    
 Berlin, Germany
 
 > [`Keynote Speaker`](https://sites.google.com/view/ecomplexmove/palestrantes?authuser=0)   
@@ -29,7 +46,7 @@ Bahia, Brazil
 
 > **_Dynamic Movement in Parkinson's Disease Quantified Using Nonlinear EMG Features_**    
 **MW Flood**, BPF O'Callaghan, P Diamond, MM Lowery   
-International Society of Electromyography & Kinesiology [ISEK] (2018),     
+International Society of Electrophysiology & Kinesiology [ISEK] (2018),     
 Dublin, Ireland
 
 > **_Quantification of Motor Control in Parkinson's Disease Using Nonlinear Features of Accelerometry_**         
@@ -54,7 +71,7 @@ Dublin, Ireland
 
 > **_Nonlinear Analysis of Electromyography in Parkinson’s Disease during Isometric Leg Extension_**               
 **MW Flood**, BR Jensen, AS Bogh-Malling, MM Lowery,       
-International Society of Electromyography & Kinesiology [ISEK] (2016),    
+International Society of Electrophysiology & Kinesiology [ISEK] (2016),    
 Chicago [IL], USA
 
 
