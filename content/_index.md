@@ -9,7 +9,7 @@ cover: "img/Pro Pic.jpg"
 # Hey!  :wave:    
 My name is Matt and I'm a [biomedical engineer/researcher/scientist](https://researchluxembourg.lu/2021/10/15/in-conversation-with-our-young-researchers-dr-matthew-flood/).
 
-{{< figure src="img/Profiler.png" alt="That's me alright" position="center" style="width:200px; ">}}
+{{< figure src="img/Profiler4.png" alt="That's me alright" position="center" style="width:240px; ">}}
 
 
 # About :boy:
@@ -68,7 +68,7 @@ Some of my main research interests include:
 
 # Find me on  :earth_americas::earth_africa::earth_asia::satellite:
 
-| [{{< figure src="img/ORCID_iD.png" style="width:30px;" position="center" >}}](https://orcid.org/0000-0002-5674-424X)  |  [{{< figure src="img/RG.png" style="width:30px;" position="center" >}}](https://www.researchgate.net/profile/Matthew-Flood-3)  |  [{{< figure src="img/GS.png" style="width:30px;" position="center" >}}](https://scholar.google.com/citations?user=bimxEBUAAAAJ&hl)  |   [{{< figure src="img/Publons.png" style="width:30px;" position="center" >}}](https://publons.com/researcher/3408315/matthew-w-flood/)  |    [{{< figure src="img/LI.png" style="width:30px;" position="center" >}}](https://ie.linkedin.com/in/matthew-flood-a2286433) | [{{< figure src="img/GH2.png" style="width:35px;" position="center" >}}](https://www.github.com/MattWillFlood)  | [{{< figure src="img/EH1.png" style="width:35px;" position="center" >}}](https://www.EntropyHub.xyz)  |
+| [{{< figure src="img/ORCID_iD.png" style="width:30px;" position="center" >}}](https://orcid.org/0000-0002-5674-424X)  |  [{{< figure src="img/RG.png" style="width:30px;" position="center" >}}](https://www.researchgate.net/profile/Matthew-Flood-3)  |  [{{< figure src="img/GS.png" style="width:30px;" position="center" >}}](https://scholar.google.com/citations?user=bimxEBUAAAAJ&hl)  |   [{{< figure src="img/Clarivate.png" style="width:30px;" position="center" >}}](https://www.webofscience.com/wos/author/record/1948789)  |    [{{< figure src="img/LI.png" style="width:30px;" position="center" >}}](https://ie.linkedin.com/in/matthew-flood-a2286433) | [{{< figure src="img/GH2.png" style="width:35px;" position="center" >}}](https://www.github.com/MattWillFlood)  | [{{< figure src="img/EH1.png" style="width:35px;" position="center" >}}](https://www.EntropyHub.xyz)  |
 |----|----|----|----|----|----|----|
 <!-- | Orcid | ResearchGate | Google Scholar | Publons | LinkedIn | GitHub | EntropyHub | -->
 
