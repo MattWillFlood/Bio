@@ -6,6 +6,11 @@ description: "Articles published in international peer-reviewed journals. "
 weight: 1
 ---
 
+
+> [**_Waist — What? Can a single sensor positioned at the waist detect parameters of gait at a speed and distance reflective of older adults’ activity?_**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286707)         
+   G Vavasour, OM Giggins, **MW Flood**, _et al._     
+    PLoS ONE (2023), 18(6):e0286707
+
 > [**_Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge_**](https://doi.org/10.1016/j.ijmedinf.2022.104911)         
    EP Doheny, **MW Flood**, S Ryan, C McCarthy, O O'Carroll, _et al._     
    International Journal of Bioinformatics (2022), 169, 104911     
@@ -16,7 +21,7 @@ weight: 1
 
 > [**_EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis_**](https://doi.org/10.1371/journal.pone.0259448)                                            
    **MW Flood** and Bernd Grimm,                              
-   PLoS One (2021), 16(11):e0259448
+   PLoS ONE (2021), 16(11):e0259448
 
 > [**_Solving the Problems of Gas Leakage at Laparoscopy_**](https://bjssjournals.onlinelibrary.wiley.com/doi/full/10.1002/bjs.11977)                                            
    RA Cahill, J Dalli, F Khan, **MW Flood**, K Nolan,                              

@@ -147,6 +147,163 @@
   <div class="content">
     
   
+    <div class="index-content">
+      <h2 id="week-2">Week 2:</h2>
+<ul>
+<li>Julia File Format?</li>
+<li>Data Types</li>
+<li>Collections</li>
+<li>Plotting 101</li>
+</ul>
+<blockquote>
+<p>Material can be accessed and downloaded <a href="https://github.com/MattWillFlood/Introduction-to-Computer-Programming-in-Julia/tree/main/Week%202">here</a>.</p>
+</blockquote>
+<h3 id="lecture-slides">Lecture Slides:</h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/UXD5Uni0qjg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="tutorial-exercises">Tutorial Exercises:</h3>
+ 
+ <iframe src="Week2.html"
+        style="height:5000px;width:100%;border:none;overflow:hidden;" scrolling="no"></iframe>
+      
+
+<p><a href="Week2.html">Click to edit file interactively &raquo;</a></p>
+<h3 id="homework-assignment">Homework Assignment:</h3>
+<script type="text/javascript" src= '/Bio//js/pdf-js/build/pdf.js'></script>
+<style>
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+  width: 100%;
+  height: auto;
+}
+#paginator{
+    text-align: center;
+    margin-bottom: 10px;
+}
+</style>
+
+<div id="paginator">
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+    &nbsp; &nbsp;
+    <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+</div>
+<div id="embed-pdf-container">
+    <canvas id="the-canvas"></canvas>
+</div>
+
+<script type="text/javascript">
+window.onload = function() {
+
+
+var url = "https:\/\/mattwillflood.github.io\/Bio\/" + 'doc\/Week2Homework.pdf';
+var hidePaginator = "";
+
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/mattwillflood.github.io\/Bio\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
+    pageNum = 1,
+    pageRendering = false,
+    pageNumPending = null,
+    scale = 3,
+    canvas = document.getElementById('the-canvas'),
+    ctx = canvas.getContext('2d');
+
+
+
+function renderPage(num) {
+  pageRendering = true;
+  
+  pdfDoc.getPage(num).then(function(page) {
+    var viewport = page.getViewport({scale: scale});
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+
+    
+    renderTask.promise.then(function() {
+      pageRendering = false;
+      if (pageNumPending !== null) {
+        
+        renderPage(pageNumPending);
+        pageNumPending = null;
+      }
+    });
+  });
+
+  
+  document.getElementById('page_num').textContent = num;
+}
+
+
+
+function queueRenderPage(num) {
+  if (pageRendering) {
+    pageNumPending = num;
+  } else {
+    renderPage(num);
+  }
+}
+
+
+
+if (hidePaginator == "true") {
+  document.getElementById("paginator").style.display = 'none';
+}
+
+
+
+function onPrevPage() {
+  if (pageNum <= 1) {
+    return;
+  }
+  pageNum--;
+  queueRenderPage(pageNum);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
+
+
+
+function onNextPage() {
+  if (pageNum >= pdfDoc.numPages) {
+    return;
+  }
+  pageNum++;
+  queueRenderPage(pageNum);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
+
+
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+  pdfDoc = pdfDoc_;
+  document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+  
+  renderPage(pageNum);
+});
+}
+
+</script>
+
+
+    </div>
+  
   <div class="posts">
     
     <div class="pagination">
@@ -165,7 +322,7 @@
   <div class="footer__inner">
     
       <div class="copyright copyright--user">
-        <span>© Copyright 2021,  Matthew W. Flood</span>
+        <span>© Copyright 2022,  Matthew W. Flood</span>
     
         <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
       </div>

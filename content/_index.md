@@ -14,10 +14,9 @@ My name is Matt and I'm a [biomedical engineer/researcher/scientist](https://res
 
 # About :boy:
 
-Since 2021 I have been a postdoctoral researcher in the [*Human Motion, Orthopaedics, Sports Medicine and Digital Methods*](https://www.lih.lu/page/departments/hosd-human-motion-orthopaedics-sports-medicine-and-digital-methods-1573)  (HOSD) unit at the [Luxembourg Institute of Health](https://www.lih.lu/) (LIH).
+Since 2021 I have been a postdoctoral researcher at the [Luxembourg Institute of Health](https://www.lih.lu/) (LIH).
 
-My current research focuses on digital methods for analyzing movement in health and disease, with a particular focus on high performance sport and orthopaedics.    
-Previous research of mine focused on quantitative assessments of Parkinson's disease, stroke, and other neurodegenerative movement disorders.   
+My research focuses on analyzing movement in health and disease, with a particular focus on quantitative assessments of Parkinson's disease, stroke, and other neurodegenerative movement disorders.   
 
 I'm  from Ireland, but have been living and working in Germany and Luxembourg since 2019.
 
@@ -28,13 +27,7 @@ Some of my main research interests include:
 * **Electromyography:**    
   *Modelling, analysing and novel applications of surface electromyography.*
   *In particular, I'm interested in novel techniques to examine the dynamical behaviour of motor unit fire patterns and how they may be employed as digital biomarkers of neurodegenerative disease.* 
-  
-* **Markerless (Monocular) Motion Capture:**  
-  *Development and application of markerless (monocular) motion capture for the assessment of pathology and real-world monitoring of gait pre and post surgery.*
-
-* **Wearable Sensor Applications in Medicine:**   
-  *Always following latest innovations in the area of wearable sensors and devices for clinical research.*
-  
+    
 * **Integrity in Scientific Publication and Modern Scientific Practices:**     
   *Supporter of initiatives that make scientific publication open-access, unbiased, and most importantly, trustworthy.*
   *We must challenge the predatory practices of journals that function to maximise profit and call out researchers who game the system for self-promotion.*
