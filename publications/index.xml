@@ -1,54 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Matt Flood</title><link>https://mattwillflood.github.io/Bio/publications/</link><description>Recent content in Publications on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Copyright 2022, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 16:26:51 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>Journal Papers</title><link>https://mattwillflood.github.io/Bio/publications/jp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/jp/</guid><description>Waist — What? Can a single sensor positioned at the waist detect parameters of gait at a speed and distance reflective of older adults’ activity? G Vavasour, OM Giggins, MW Flood, et al. PLoS ONE (2023), 18(6):e0286707
-Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge EP Doheny, MW Flood, S Ryan, C McCarthy, O O&amp;rsquo;Carroll, et al. International Journal of Bioinformatics (2022), 169, 104911</description><content>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Matt Flood</title><link>https://mattwillflood.github.io/Bio/publications/</link><description>Recent content in Publications on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Copyright 2022, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 16:26:51 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>Journal Papers</title><link>https://mattwillflood.github.io/Bio/publications/jp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/jp/</guid><description> Waist — What? Can a single sensor positioned at the waist detect parameters of gait at a speed and distance reflective of older adults’ activity? G Vavasour, OM Giggins, MW Flood, et al. PLoS ONE (2023), 18(6):e0286707 Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge EP Doheny, MW Flood, S Ryan, C McCarthy, O O&amp;rsquo;Carroll, et al. International Journal of Bioinformatics (2022), 169, 104911 Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces V Shah, MW Flood, B Grimmm, PC Dixon, Journal of Biomechanics (2022), 139, 111159 EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis MW Flood and Bernd Grimm, PLoS ONE (2021), 16(11):e0259448 Solving the Problems of Gas Leakage at Laparoscopy RA Cahill, J Dalli, F Khan, MW Flood, K Nolan, British Journal of Surgery (2020), 107, 1401:1405 Editor's Choice 2020 Quantitative Clinical Assessmnet of Motor Function During and Following LSVT-BIG® Therapy MW Flood, BPF O&amp;rsquo;Callaghan, P Diamond, J Liegey, G Hughes, MM Lowery, Journal of NeuroEngineering and Rehabilitation (2020), 17(92) Feature-based Evaluation of a Wearable Surface EMG Sensor Against laboratory Standard EMG During Force-varying and Fatiguing Contractions EP Doheny, C Goulding, MW Flood, L McManus, MM Lowery IEEE Sensors Journal (2020), 20(5), 2757:2765 Gait Event Detection from Accelerometry using the Teager-Kaiser Energy Operator MW Flood, BPF O&amp;rsquo;Callaghan, MM Lowery, IEEE Transactions on Biomedical Engineering (2020), 67(3), 658:666 Beta-band Motor Unit Coherence and Nonlinear Surface EMG Features of the First Dorsal Interosseous Muscle Vary with Force L McManus, MW Flood, MM Lowery, Journal of Neurophysiology (2019), 122(3), 1147:1162 Increased EMG Intermuscular Coherence and Reduced Signal Complexity in Parkinson’s Disease MW Flood, BR Jensen, AS Malling, MM Lowery, Clinical Neurophysiology (2019), 130(2), 259:269</description><content>&lt;pre tabindex="0">&lt;code>
+&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">&lt;/script>
+&lt;/code>&lt;/pre>&lt;blockquote>
 &lt;p>&lt;a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286707">&lt;strong>&lt;em>Waist — What? Can a single sensor positioned at the waist detect parameters of gait at a speed and distance reflective of older adults’ activity?&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 G Vavasour, OM Giggins, &lt;strong>MW Flood&lt;/strong>, &lt;em>et al.&lt;/em> &lt;br>
-PLoS ONE (2023), 18(6):e0286707&lt;/p>
+PLoS ONE (2023), 18(6):e0286707 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0286707" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://doi.org/10.1016/j.ijmedinf.2022.104911">&lt;strong>&lt;em>Prediction of Low Pulse Oxygen Saturation in COVID-19 Using Remote Monitoring Post Hospital Discharge&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 EP Doheny, &lt;strong>MW Flood&lt;/strong>, S Ryan, C McCarthy, O O&amp;rsquo;Carroll, &lt;em>et al.&lt;/em> &lt;br>
-International Journal of Bioinformatics (2022), 169, 104911&lt;/p>
+International Journal of Bioinformatics (2022), 169, 104911 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijmedinf.2022.104911" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://doi.org/10.1016/j.jbiomech.2022.111159">&lt;strong>&lt;em>Generalizability of Deep Learning Models for Predicting Outdoor Irregular Walking Surfaces&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 V Shah, &lt;strong>MW Flood&lt;/strong>, B Grimmm, PC Dixon, &lt;br>
-Journal of Biomechanics (2022), 139, 111159&lt;/p>
+Journal of Biomechanics (2022), 139, 111159 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1016/j.jbiomech.2022.111159" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://doi.org/10.1371/journal.pone.0259448">&lt;strong>&lt;em>EntropyHub: An Open-Source Toolkit For Entropic Time Series Analysis&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong> and Bernd Grimm, &lt;br>
-PLoS ONE (2021), 16(11):e0259448&lt;/p>
+PLoS ONE (2021), 16(11):e0259448 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0259448" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://bjssjournals.onlinelibrary.wiley.com/doi/full/10.1002/bjs.11977">&lt;strong>&lt;em>Solving the Problems of Gas Leakage at Laparoscopy&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 RA Cahill, J Dalli, F Khan, &lt;strong>MW Flood&lt;/strong>, K Nolan, &lt;br>
-British Journal of Surgery (2020), 107, 1401:1405&lt;/p>
+British Journal of Surgery (2020), 107, 1401:1405 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1002/bjs.11977" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;code>Editor's Choice 2020&lt;/code> &lt;br>
 &lt;a href="https://link.springer.com/article/10.1186/s12984-020-00729-8">&lt;strong>&lt;em>Quantitative Clinical Assessmnet of Motor Function During and Following LSVT-BIG® Therapy&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BPF O&amp;rsquo;Callaghan, P Diamond, J Liegey, G Hughes, MM Lowery, &lt;br>
-Journal of NeuroEngineering and Rehabilitation (2020), 17(92)&lt;/p>
+Journal of NeuroEngineering and Rehabilitation (2020), 17(92) &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1186/s12984-020-00729-8" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ieeexplore.ieee.org/abstract/document/8897580">&lt;strong>&lt;em>Feature-based Evaluation of a Wearable Surface EMG Sensor Against laboratory Standard EMG During Force-varying and Fatiguing Contractions&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 EP Doheny, C Goulding, &lt;strong>MW Flood&lt;/strong>, L McManus, MM Lowery &lt;br>
-IEEE Sensors Journal (2020), 20(5), 2757:2765&lt;/p>
+IEEE Sensors Journal (2020), 20(5), 2757:2765 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2019.2953354" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ieeexplore.ieee.org/abstract/document/8723520">&lt;strong>&lt;em>Gait Event Detection from Accelerometry using the Teager-Kaiser Energy Operator&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BPF O&amp;rsquo;Callaghan, MM Lowery, &lt;br>
-IEEE Transactions on Biomedical Engineering (2020), 67(3), 658:666&lt;/p>
+IEEE Transactions on Biomedical Engineering (2020), 67(3), 658:666 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1109/TBME.2019.2919394" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://journals.physiology.org/doi/full/10.1152/jn.00228.2019">&lt;strong>&lt;em>Beta-band Motor Unit Coherence and Nonlinear Surface EMG Features of the First Dorsal Interosseous Muscle Vary with Force&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 L McManus, &lt;strong>MW Flood&lt;/strong>, MM Lowery, &lt;br>
-Journal of Neurophysiology (2019), 122(3), 1147:1162&lt;/p>
+Journal of Neurophysiology (2019), 122(3), 1147:1162 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1152/jn.00228.2019" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245718313853">&lt;strong>&lt;em>Increased EMG Intermuscular Coherence and Reduced Signal Complexity in Parkinson’s Disease&lt;/em>&lt;/strong>&lt;/a> &lt;br>
 &lt;strong>MW Flood&lt;/strong>, BR Jensen, AS Malling, MM Lowery, &lt;br>
-Clinical Neurophysiology (2019), 130(2), 259:269&lt;/p>
+Clinical Neurophysiology (2019), 130(2), 259:269 &lt;code>
+&lt;span class="__dimensions_badge_embed__" data-doi="10.1016/j.clinph.2018.10.023" data-legend="hover-right" data-style="small_circle">&lt;/span>&lt;/code>&lt;/p>
 &lt;/blockquote></content></item><item><title>Conference Presentations</title><link>https://mattwillflood.github.io/Bio/publications/cp/</link><pubDate>Fri, 16 Jul 2021 16:26:51 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/publications/cp/</guid><description>Markerless Motion Capture for Clinical Movement Analysis and Influence of Clothing on Gait Metrics
 MW Flood, P Gette, J Cabri, BP Grimm, International Congress of Orthopaedic Research Societies [ICORS] (2022), Edinburgh, UK
 Invited Speaker EntropyHub
