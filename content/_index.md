@@ -14,8 +14,6 @@ My name is Matt and I'm a [biomedical engineer/researcher/scientist](https://res
 
 # About :boy:
 
-Since 2021 I have been a postdoctoral researcher at the [Luxembourg Institute of Health](https://www.lih.lu/) (LIH).
-
 My research focuses on analyzing movement in health and disease, with a particular focus on quantitative assessments of Parkinson's disease, stroke, and other neurodegenerative movement disorders.   
 
 I'm  from Ireland, but have been living and working in Germany and Luxembourg since 2019.
