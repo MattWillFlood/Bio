@@ -181,7 +181,7 @@ The Handalysis system could be instrumental in providing an objective assessment
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/wh9NfqR29Po" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;script src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
@@ -335,7 +335,7 @@ As industries begin to integrate biofeedback into all manner of consumer product
 &lt;img src="../../img/PATW.jpg" alt="Basic Setup" style="width:850px;" />
 &lt;figcaption class="center" >Competitors representing IET networks from countries across Europe, Middle East and Africa, at the EMEA round held in Dublin.&lt;/figcaption>
 &lt;/figure>
-&lt;script src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
