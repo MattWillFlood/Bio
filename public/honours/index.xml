@@ -56,7 +56,7 @@ The Handalysis system could be instrumental in providing an objective assessment
   &lt;iframe src=&#34;https://www.youtube.com/embed/wh9NfqR29Po&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;script src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;
@@ -314,7 +314,7 @@ As industries begin to integrate biofeedback into all manner of consumer product
   &lt;/figure&gt;
 
 
-&lt;script src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;
