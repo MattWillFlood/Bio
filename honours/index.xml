@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Honours on Matt Flood</title><link>https://mattwillflood.github.io/Bio/honours/</link><description>Recent content in Honours on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Copyright 2022, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 16:26:43 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/honours/index.xml" rel="self" type="application/rss+xml"/><item><title>Wolfgang Baertz Award</title><link>https://mattwillflood.github.io/Bio/honours/baertz/</link><pubDate>Wed, 02 Nov 2022 11:59:04 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/baertz/</guid><description>In 2022, I was fortunate to receive the Wolfgang Baertz Award for my project proposal: Assessing Neuromuscular Function with Kayak Ergometry Training and its Translation to Physical therapy in Parkinson's Disease.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Honours on Matt Flood</title><link>https://mattwillflood.github.io/Bio/honours/</link><description>Recent content in Honours on Matt Flood</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© Copyright 2023, Matthew W. Flood</copyright><lastBuildDate>Fri, 16 Jul 2021 16:26:43 +0200</lastBuildDate><atom:link href="https://mattwillflood.github.io/Bio/honours/index.xml" rel="self" type="application/rss+xml"/><item><title>Wolfgang Baertz Award</title><link>https://mattwillflood.github.io/Bio/honours/baertz/</link><pubDate>Wed, 02 Nov 2022 11:59:04 +0200</pubDate><guid>https://mattwillflood.github.io/Bio/honours/baertz/</guid><description>In 2022, I was fortunate to receive the Wolfgang Baertz Award for my project proposal: Assessing Neuromuscular Function with Kayak Ergometry Training and its Translation to Physical therapy in Parkinson's Disease.
 This project aims to answer 3 questions:
 Does the kayaking technique of elite athletes, quantified from wearable IMU/EMG data using nonlinear methods, relate to specific muscle control strategies and overall performance? Do individuals with movement disorders (geriatrics, neurodegenerative disease, etc.</description><content>&lt;p>In 2022, I was fortunate to receive the Wolfgang Baertz Award for my project proposal: &lt;code>Assessing Neuromuscular Function with Kayak Ergometry Training and its Translation to Physical therapy in Parkinson's Disease&lt;/code>.&lt;/p>
 &lt;p>This project aims to answer 3 questions:&lt;/p>
@@ -26,7 +26,7 @@ The Handalysis system could be instrumental in providing an objective assessment
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/wh9NfqR29Po" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
@@ -180,7 +180,7 @@ As industries begin to integrate biofeedback into all manner of consumer product
 &lt;img src="../../img/PATW.jpg" alt="Basic Setup" style="width:850px;" />
 &lt;figcaption class="center" >Competitors representing IET networks from countries across Europe, Middle East and Africa, at the EMEA round held in Dublin.&lt;/figcaption>
 &lt;/figure>
-&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
+&lt;script src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
 #the-canvas {
 border: 1px solid black;
