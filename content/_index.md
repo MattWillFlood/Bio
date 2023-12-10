@@ -27,8 +27,7 @@ Some of my main research interests include:
   *In particular, I'm interested in novel techniques to examine the dynamical behaviour of motor unit fire patterns and how they may be employed as digital biomarkers of neurodegenerative disease.* 
     
 * **Integrity in Scientific Publication and Modern Scientific Practices:**     
-  *Supporter of initiatives that make scientific publication open-access, unbiased, and most importantly, trustworthy.*
-  *We must challenge the predatory practices of journals that function to maximise profit and call out researchers who game the system for self-promotion.*
+  *Supporter of initiatives that make scientific publication open-access, unbiased, and trustworthy.*
   *I am an advocate of alternative publication models that aim to overcome the shortcomings in scientific publication.*
 
 * **Julia Programming:**   
